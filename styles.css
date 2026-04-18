@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #1F2937;
+}
+
+
+.boxes {
+    display:flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    height: 100vh;
+}
+
+.box{
+    flex: 1;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+
+.box.top{
+    background-color: #1F2937;
+    
+}
+.box.second{
+    background-color: #ffff;
+    
+}
+
+.box.third{
+    background-color: #E5E7EB;
+    
+}
+
+.box.fourth{
+    background-color: #ffff;
+    
+}
