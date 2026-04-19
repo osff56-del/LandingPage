@@ -106,7 +106,7 @@ header{
     margin-left: auto;
     margin-right: auto;
     border-radius: 15px;
-    border: #3882F6 solid 4px;
+    border: #00000058 solid 4px;
 }
 
 
@@ -174,7 +174,7 @@ header{
 
 footer{
     background-color: #1F2937;
-    min-height: 200px;
+    min-height: 50px;
     
 }
 
@@ -184,3 +184,6 @@ footer{
     margin-right: 0;
     padding-top: 10px;
 }
+
+
+
