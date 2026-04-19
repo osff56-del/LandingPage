@@ -77,7 +77,7 @@ header{
 }
 
 .signupbutton:hover{
-    background-color: #3881f67b;
+    background-color: #1b3977;;
 }
 .box.second{
     background-color: #ffff;
@@ -172,6 +172,39 @@ header{
     
 }
 
+.cta-container{
+    background-color: #3882F6;
+    display: flex;
+    width: 60vw;
+    margin: auto;
+    margin-top: 50px;
+    gap: 150px;
+    border-radius: 10px;
+}
+
+.cta-text-container{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 50px;
+}
+
+
+
+.cta-link-container{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.signupbutton.bottom{
+    border:#ffff 2px solid;
+    border-radius: 10px;
+}
+
+.cta-title, .cta-para{
+    color: #F9FAF8;
+}
+
+
 footer{
     background-color: #1F2937;
     min-height: 50px;
@@ -186,4 +219,8 @@ footer{
 }
 
 
-
+.copyright{
+    text-align: center;
+    color: white;
+    font-size: 0.8rem;
+}
