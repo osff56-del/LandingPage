@@ -141,6 +141,31 @@ header{
     
 }
 
+
+.quote{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 300;
+    color: #1F2937;
+}
+
+.dan{
+     text-align: right;
+     padding-right: 300px;
+     font-size: 24px;
+     font-weight: 900;
+     color: #1F2937;
+}
+
+.CEO{
+   text-align: right;
+     padding-right: 300px;
+     font-size: 18px;
+     font-style: italic;
+     font-weight: 300;
+     color: #1F2937; 
+}
+
 .box.fourth{
     background-color: #ffff;
     min-height: 200px;
