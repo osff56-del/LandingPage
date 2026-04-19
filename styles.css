@@ -24,6 +24,7 @@ header{
     color: #E5E7EB;
     padding-top: 10px;
 }
+
 .boxes {
     display:flex;
     flex-direction: column;
@@ -42,6 +43,36 @@ header{
 .box.top{
     background-color: #1F2937;
     flex-grow: 0.8;
+    display: flex;
+    flex: 1 1 auto;
+    padding: 75px;
+}
+.text.title{
+    font-weight: 900;
+    color: #F9FAF8;
+    font-size: 48px; 
+}
+
+.text.paragraph{
+    font-size: 18px;
+    color: #E5E7EB;
+    padding-bottom: 10px;
+}
+
+.signupbutton{
+    text-decoration: none;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 10px;
+    padding-left: +30px;
+    padding-right: +30px;
+    border-radius: 6px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.signupbutton:hover{
+    background-color: #3881f67b;
 }
 .box.second{
     background-color: #ffff;
